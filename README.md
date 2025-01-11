@@ -8,7 +8,7 @@ Here's how you can reach me!
 
 [![Link to my Discord](Button_Discord.png "Link to my Discord")](https://discordapp.com/users/634863506319212550)
 [![Link to my X](Button_X.png "Link to my X")](https://x.com/Daniel_Fiuk)
-[![Link to my Gmail](Button_Gmail.png "Link to my Gmail")](mailto:daniel.fiuk21@gmail.com)
+[![Link to my Gmail](Button_Gmail.png "Link to my Gmail")](mailto:daniel.fiuk21%40gmail.com)
 [![Link to my YouTube](Button_YouTube.png "Link to my YouTube")](https://www.youtube.com/@Daniel_Fiuk)
 [![Link to my Itch](Button_Itch.png "Link to my Itch")](https://daniel-fiuk.itch.io/)
 
