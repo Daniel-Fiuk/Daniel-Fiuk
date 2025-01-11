@@ -1,9 +1,8 @@
-# Hello! Nice to meet you! I'm Dan.
+<h1 align="center"> Hello! Nice to meet you! I'm Dan. </h1>
 
 I am a graduate of Ontario Tech University and a game systems programmer. I specialize in C# and C++, creating game systems and designer tools for developers and artists in Unity and Unreal Engine.
 
-Currently, I'm working on a game called Daybreak. A top-down survivor-like focused on short 5-minute gameplay sessions with bullet heaven mechanics.
-
+Currently, I'm working on a game called Daybreak. A top-down survivor-like focused on short 5-minute gameplay sessions with bullet heaven mechanics. Check it out [here](https://constantine-pallas.itch.io/daybreak) once we release it! While you wait, take a peek at some of our other games like [Moonset](https://www.gamecon.ca/2023/second/stellar-octopians) and [Starlight](https://www.gamecon.ca/2024/third/stellar-octopians)!
 
 <!-- How to Reach Me Section -->
 <h3 align="center"> Here's how you can reach me! </h3>
