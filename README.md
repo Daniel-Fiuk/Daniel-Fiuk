@@ -11,7 +11,8 @@ Currently, I'm working on a game called Daybreak. A top-down survivor-like focus
 [![Link to my X](Button_X.png "Link to my X")](https://x.com/Daniel_Fiuk)
 [![Link to my Gmail](Button_Gmail.png "Link to my Gmail")](mailto:daniel.fiuk21@gmail.com)
 [![Link to my YouTube](Button_YouTube.png "Link to my YouTube")](https://www.youtube.com/@Daniel_Fiuk)
-[![Link to my Itch](Button_Itch.png "Link to my Itch")</p>](https://daniel-fiuk.itch.io/)
+[![Link to my Itch](Button_Itch.png "Link to my Itch")](https://daniel-fiuk.itch.io/)
+[![Link to my LinkedIn](Button_LinkedIn.png "Link to my LinkedIn")</p>](https://www.linkedin.com/in/daniel-fiuk-883580208/)
 
 
 <!--
