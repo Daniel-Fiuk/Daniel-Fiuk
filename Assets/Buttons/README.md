@@ -7,15 +7,17 @@ Currently, I'm working on a game called Daybreak. A top-down survivor-like focus
 <!-- How to Reach Me Section -->
 <h3 align="center"> Here's how you can reach me! </h3>
 
-[<p align="center">![Link to my Discord](Button_Discord.png "Link to my Discord")](https://discordapp.com/users/634863506319212550)
-[![Link to my X](Button_X.png "Link to my X")](https://x.com/Daniel_Fiuk)
-[![Link to my Gmail](Button_Gmail.png "Link to my Gmail")](mailto:daniel.fiuk21@gmail.com)
-[![Link to my YouTube](Button_YouTube.png "Link to my YouTube")](https://www.youtube.com/@Daniel_Fiuk)
-[![Link to my Itch](Button_Itch.png "Link to my Itch")</p>](https://daniel-fiuk.itch.io/)
-
+<p align="center">
+<a href="https://discordapp.com/users/634863506319212550"><img align="center" src="Button_Discord.png"><a/>
+<a href="https://x.com/Daniel_Fiuk"><img align="center" src="Button_X.png"><a/>
+<a href="mailto:daniel.fiuk21@gmail.com"><img align="center" src="Button_Gmail.png"><a/>
+<a href="https://www.youtube.com/@Daniel_Fiuk"><img align="center" src="Button_YouTube.png"><a/>
+<a href="https://daniel-fiuk.itch.io/"><img align="center" src="Button_Itch.png"><a/>
+<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/"><img align="center" src="Button_LinkedIn.png"><a/>
+</p>
 
 <!--
-**ShockWaveGamer/ShockWaveGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daniel-Fiuk/Daniel-Fiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
