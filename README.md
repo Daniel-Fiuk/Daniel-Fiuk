@@ -8,12 +8,12 @@ Currently, I'm working on a game called Daybreak. A top-down survivor-like focus
 <h3 align="center"> Here's how you can reach me! </h3>
 
 <p align="center">
-<a href="https://discordapp.com/users/634863506319212550"><img align="center" src="Button_Discord.png"><a/>
-<a href="https://x.com/Daniel_Fiuk"><img align="center" src="Button_X.png"><a/>
-<a href="mailto:daniel.fiuk21@gmail.com"><img align="center" src="Button_Gmail.png"><a/>
-<a href="https://www.youtube.com/@Daniel_Fiuk"><img align="center" src="Button_YouTube.png"><a/>
-<a href="https://daniel-fiuk.itch.io/"><img align="center" src="Button_Itch.png"><a/>
-<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/"><img align="center" src="Button_LinkedIn.png"><a/>
+<a href="https://discordapp.com/users/634863506319212550"><img align="center" src="Assets/Buttons/Button_Discord.png"><a/>
+<a href="https://x.com/Daniel_Fiuk"><img align="center" src="Assets/Buttons/Button_X.png"><a/>
+<a href="mailto:daniel.fiuk21@gmail.com"><img align="center" src="Assets/Buttons/Button_Gmail.png"><a/>
+<a href="https://www.youtube.com/@Daniel_Fiuk"><img align="center" src="Assets/Buttons/Button_YouTube.png"><a/>
+<a href="https://daniel-fiuk.itch.io/"><img align="center" src="Assets/Buttons/Button_Itch.png"><a/>
+<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/"><img align="center" src="Assets/Buttons/Button_LinkedIn.png"><a/>
 </p>
 
 <!--
