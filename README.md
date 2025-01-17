@@ -16,6 +16,11 @@ Currently, I'm working on a game called Daybreak. A top-down survivor-like focus
 <a href="https://www.linkedin.com/in/daniel-fiuk-883580208/"><img align="center" src="Assets/Buttons/Button_LinkedIn.png"><a/>
 </p>
 
+<p align="center">
+<a href="https://www.gamecon.ca/2023/second/stellar-octopians"><img align="center" src="Assets/Game Heros/MoonsetHero.png" style="width:250px;"><a/>
+<a href="https://www.gamecon.ca/2024/third/stellar-octopians"><img align="center" src="Assets/Game Heros/StarlightHero.png" style="width:250px;"><a/>
+</p>
+
 <!--
 **Daniel-Fiuk/Daniel-Fiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
