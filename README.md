@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! Nice to meet you! I'm Dan. </h1>
 
-I am a game systems programmer and a graduate of Ontario Tech University. I specialize in C# and C++, creating algorithms, game systems, and designer tools for developers and artists in Unity and Unreal Engine. 
+I am a game systems programmer and will soon graduate from Ontario Tech University. I specialize in C# and C++, creating algorithms, game systems, and designer tools for developers and artists in Unity and Unreal Engine. 
 
 I'm working on a game called Daybreak: a survivor-like game where the player fights against hoards of devouring void entities in a world being consumed from all existence. Taking the successful formula of games like Vaimpre Survivors and 20 Minutes Till Dawn, it introduces live service elements, allowing it to evolve. Daybreak focuses on 5-minute gameplay sessions with social sharing features for players to compete with friends for the best daily scores. Check it out [here](https://constantine-pallas.itch.io/daybreak) once we release it! While you wait, please take a peek at some of our other games like [Moonset](https://www.gamecon.ca/2023/second/stellar-octopians), a high-speed grappling platformer where you race to the end for the shortest time, and [Starlight](https://www.gamecon.ca/2024/third/stellar-octopians), a magic building game where you experiment with powerful spell combinations!
 
