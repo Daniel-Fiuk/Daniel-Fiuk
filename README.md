@@ -7,7 +7,6 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 <h2 align="center"> Here's how you can reach me! </h2>
 <p  class=".external-link" align="center">
 	<a href="https://discordapp.com/users/634863506319212550" target="_blank"><img align="center" src="Assets/Buttons/Button_Discord.png"></a>
-	<a href="https://github.com/Daniel-Fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_GitHub.png"></a>
 	<a href="mailto:daniel.fiuk21@gmail.com" target="_blank"><img align="center" src="Assets/Buttons/Button_Gmail.png"></a>
 	<a href="https://x.com/Daniel_Fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_X.png"></a>
 	<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/" target="_blank"><img align="center" src="Assets/Buttons/Button_LinkedIn.png"></a>
