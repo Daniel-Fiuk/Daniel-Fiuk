@@ -6,19 +6,20 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 
 <h2 align="center"> Here's how you can reach me! </h2>
 <p  class=".external-link" align="center">
-	<a href="https://discordapp.com/users/634863506319212550" target="_blank"><img align="center" src="Assets/Buttons/Button_Discord.png"></a>
-	<a href="mailto:daniel.fiuk21@gmail.com" target="_blank"><img align="center" src="Assets/Buttons/Button_Gmail.png"></a>
-	<a href="https://x.com/Daniel_Fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_X.png"></a>
-	<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/" target="_blank"><img align="center" src="Assets/Buttons/Button_LinkedIn.png"></a>
+	<a href="https://discordapp.com/users/634863506319212550" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Discord.png"></a>
+	<a href="mailto:daniel.fiuk21@gmail.com" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Gmail.png"></a>
+	<a href="https://x.com/Daniel_Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_X.png"></a>
+	<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_LinkedIn.png"></a>
 </p>
 
 <h2 align="center"> Check Me Out On My Other Platforms! </h2>
 
 <p align="center">
-	<a href="https://daniel-fiuk.itch.io/" target="_blank"><img align="center" src="Assets/Buttons/Button_Itch.png"></a>
-	<a href="https://www.youtube.com/@Daniel_Fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_YouTube.png"></a>
-	<a href="https://lospec.com/daniel-fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_Lospec.png"></a>
-	<a href="https://sketchfab.com/Daniel.Fiuk" target="_blank"><img align="center" src="Assets/Buttons/Button_Sketchfab.png"></a>
+	<a href="http://danielfiuk.ca/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Portfolio.png"></a>
+	<a href="https://daniel-fiuk.itch.io/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Itch.png"></a>
+	<a href="https://www.youtube.com/@Daniel_Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_YouTube.png"></a>
+	<a href="https://lospec.com/daniel-fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Lospec.png"></a>
+	<a href="https://sketchfab.com/Daniel.Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Sketchfab.png"></a>
 </p>
 
 <h2 align="center"> Here are a few games I've been involved in creating! </h2>
