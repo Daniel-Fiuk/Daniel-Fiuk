@@ -26,10 +26,10 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 <h2 align="center"> Here are a few games I've been involved in creating! </h2>
 
 <p align="center">
-	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Daybreak"><img align="center" src="Assets/Game Heros/DaybreakHero.png" style="width:220px;"><a/>
-  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Starlight"><img align="center" src="Assets/Game Heros/StarlightHero.png" style="width:220px;"><a/>
-  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Moonset"><img align="center" src="Assets/Game Heros/MoonsetHero.png" style="width:220px;"><a/>
-  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/The-437"><img align="center" src="Assets/Game Heros/The437Hero.png" style="width:220px;"><a/>
+	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Daybreak"><img align="center" src="Assets/Game Heros/DaybreakHero.png" style="width:250px;"><a/>
+  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Starlight"><img align="center" src="Assets/Game Heros/StarlightHero.png" style="width:250px;"><a/>
+  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/Moonset"><img align="center" src="Assets/Game Heros/MoonsetHero.png" style="width:250px;"><a/>
+  	<a href="http://danielfiuk.ca/Projects-I've-Worked-On/The-437"><img align="center" src="Assets/Game Heros/The437Hero.png" style="width:250px;"><a/>
 </p>
 
 <!--
