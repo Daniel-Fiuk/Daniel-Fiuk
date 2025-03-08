@@ -9,6 +9,7 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 	<a href="https://discordapp.com/users/634863506319212550" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Discord.png"></a>
 	<a href="mailto:daniel.fiuk21@gmail.com" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Gmail.png"></a>
 	<a href="https://x.com/Daniel_Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_X.png"></a>
+	<a href="https://bsky.app/profile/daniel-fiuk.bsky.social" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Bluesky.png"></a>
 	<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_LinkedIn.png"></a>
 </p>
 
