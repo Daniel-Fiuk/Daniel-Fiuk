@@ -4,6 +4,11 @@ I am a gameplay programmer and a graduate from Ontario Tech University. I specia
 
 I'm working on a game called Daybreak: a survivor-like game where players fight against hordes of devouring void entities in a world being erased from all existence. Taking the successful formula of games like Vampire Survivors and 20 Minutes Till Dawn, it introduces live service elements, allowing it to evolve. Daybreak focuses on 5-minute gameplay sessions with social sharing features for players to compete with friends for the best daily scores. Check it out [here](https://danielfiuk.ca/Projects-I've-Worked-On/Professional-Work/Stellar-Octopians/Daybreak) once we release it! While you wait, please take a peek at some of our other games like [Moonset](https://www.gamecon.ca/2023/second/stellar-octopians), a high-speed grappling platformer where you race to the end for the shortest time, and [Starlight](https://www.gamecon.ca/2024/third/stellar-octopians), a magic building game where you experiment with powerful spell combinations!
 
+<h2 align="center"> Check Out What I'm Currently Working On! </h2>
+<p  class=".external-link" align="center">
+	<a href="https://danielfiuk.ca/Projects-I've-Worked-On/Personal-Projects/Project-Angels" target="_blank"><img align="center" src="Assets/Game Heros/ProjectAngelsHero.png" style="width:500px;"></a>
+</p>
+ 
 <h2 align="center"> Here's how you can reach me! </h2>
 <p  class=".external-link" align="center">
 	<a href="https://discordapp.com/users/634863506319212550" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Discord.png"></a>
