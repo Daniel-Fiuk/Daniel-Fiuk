@@ -13,11 +13,6 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 	<a href="https://www.linkedin.com/in/daniel-fiuk-883580208/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_LinkedIn.png"></a>
 </p>
 
-<h2 align="center"> Check Out What I'm Currently Working On! </h2>
-<p  class=".external-link" align="center">
-	<a href="https://danielfiuk.ca/Projects-I've-Worked-On/Personal-Projects/Project-Angels" target="_blank"><img align="center" src="Assets/Game Heros/ProjectAngelsHero.png" style="width:350px;"></a>
-</p>
-
 <h2 align="center"> Check Me Out On My Other Platforms! </h2>
 
 <p align="center">
@@ -26,6 +21,11 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 	<a href="https://www.youtube.com/@Daniel_Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_YouTube.png"></a>
 	<a href="https://lospec.com/daniel-fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Lospec.png"></a>
 	<a href="https://sketchfab.com/Daniel.Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Button_Sketchfab.png"></a>
+</p>
+
+<h2 align="center"> Check Out What I'm Currently Working On! </h2>
+<p  class=".external-link" align="center">
+	<a href="https://danielfiuk.ca/Projects-I've-Worked-On/Personal-Projects/Project-Angels" target="_blank"><img align="center" src="Assets/Game Heros/ProjectAngelsHero.png" style="width:350px;"></a>
 </p>
 
 <h2 align="center"> Here are a few games I've been involved in creating! </h2>
