@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Gmail">
+        <path d="M128,16L128,48C128,56.831 120.831,64 112,64L16,64C7.169,64 0,56.831 0,48L0,16C0,7.169 7.169,0 16,0L112,0C120.831,0 128,7.169 128,16Z" style="fill:white;"/>
+        <g transform="matrix(0.45417,0,0,0.45417,37.3553,12.0217)">
+            <g transform="matrix(1.33333,0,0,1.33333,-69.3333,-56)">
+                <path d="M58,108L72,108L72,74L52,59L52,102C52,105.32 54.69,108 58,108" style="fill:rgb(66,133,244);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1.33333,0,0,1.33333,-69.3333,-56)">
+                <path d="M120,108L134,108C137.32,108 140,105.31 140,102L140,59L120,74" style="fill:rgb(52,168,83);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1.33333,0,0,1.33333,-69.3333,-56)">
+                <path d="M120,48L120,74L140,59L140,51C140,43.58 131.53,39.35 125.6,43.8" style="fill:rgb(251,188,4);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1.33333,0,0,1.33333,-69.3333,-56)">
+                <path d="M72,74L72,48L96,66L120,48L120,74L96,92" style="fill:rgb(234,67,53);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1.33333,0,0,1.33333,-69.3333,-56)">
+                <path d="M52,51L52,59L72,74L72,48L66.4,43.8C60.46,39.35 52,43.58 52,51" style="fill:rgb(197,34,31);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
