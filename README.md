@@ -20,7 +20,7 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 	<a href="https://daniel-fiuk.itch.io/" target="_blank"><img width="100" align="center" src="Assets/Buttons/Itch%20Button.svg"></a>
 	<a href="https://www.youtube.com/@DanielFiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/YouTube%20Button.svg"></a>
 	<a href="https://lospec.com/danielfiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Lospec%20Button.svg"></a>
-	<a href="https://sketchfab.com/Daniel.Fiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Sketchfab%20Button.svg"></a>
+	<a href="https://sketchfab.com/DanielFiuk" target="_blank"><img width="100" align="center" src="Assets/Buttons/Sketchfab%20Button.svg"></a>
 </p>
 
 <h2 align="center"> Check Out What I'm Currently Working On! </h2>
