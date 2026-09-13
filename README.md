@@ -25,7 +25,7 @@ I'm working on a game called Daybreak: a survivor-like game where players fight 
 
 <h2 align="center"> Check Out What I'm Currently Working On! </h2>
 <p  class=".external-link" align="center">
-	<a href="https://danielfiuk.ca/Projects-I've-Worked-On/Personal-Projects/Project-Angels" target="_blank"><img align="center" src="Assets/Game Heros/ProjectAngelsHero.png" style="width:350px;"></a>
+	<a href="https://danielfiuk.ca/Projects-I've-Worked-On/Personal-Projects/Revenant-Skies---Argent-Knights" target="_blank"><img align="center" src="Assets/Game Heros/ProjectAngelsHero.png" style="width:350px;"></a>
 </p>
 
 <h2 align="center"> Here are a few games I've been involved in creating! </h2>
